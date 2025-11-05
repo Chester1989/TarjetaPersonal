@@ -11,18 +11,18 @@ body {
 .tarjeta {
     background: rgb(247, 246, 245);
     padding: 40px;
-    border-radius: 20px;
+    border-radius: 30px;
     box-shadow: 0 4px 8px rgba(19, 243, 112, 0.2);
     text-align: center;
-    width: 400px;
+    width: 600px;
 }
 
 .foto {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    border-radius: 40%;
     object-fit: cover;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 h1 {
@@ -55,6 +55,6 @@ button:hover {
 .mensaje {
     margin-top: 20px;
     font-size: 18px;
-    color: #28a745;
+    color: #0b15a7;
     font-weight: bold;
 }   
